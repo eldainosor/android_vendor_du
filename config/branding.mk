@@ -2,7 +2,7 @@
 DU_BASE_VERSION = v11.7
 
 ifndef DU_BUILD_TYPE
-    DU_BUILD_TYPE := UNOFFICIAL
+    DU_BUILD_TYPE := SHISHUlT
 endif
 
 # Only include DU-Updater for official, weeklies, and rc builds
