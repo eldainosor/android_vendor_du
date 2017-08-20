@@ -77,3 +77,6 @@ endif
 
 # DU versions / branding
 include vendor/du/config/branding.mk
+
+BUILD_TRUSHISHU := true
+include vendor/shishu/common.mk
